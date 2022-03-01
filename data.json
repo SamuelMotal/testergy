@@ -24,7 +24,7 @@
 			"details": "Change the time such that is at exact that moment/shortly before/shortly after the summer time transition happens.",
 			"keywords": ["time","time transition","summer"]
 		},
-    {
+    		{
 			"mainCategory": "general",
 			"subCategory": "time",
 			"contributor": "SamuelMotal",
@@ -32,7 +32,7 @@
 			"details": "Change the time such that is at exact that moment/shortly before/shortly after the winter time transition happens.",
 			"keywords": ["time","time transition","winter"]
 		},
-    {
+    		{
 			"mainCategory": "general",
 			"subCategory": "time",
 			"contributor": "SamuelMotal",
@@ -40,7 +40,7 @@
 			"details": "Play around with time zones. Does the application still react in a meaningfull way even if the timezone is wrong. Can you produce a bad behaviour by changing the time zone?",
 			"keywords": ["time","time zones"]
 		},
-    {
+    		{
 			"mainCategory": "general",
 			"subCategory": "time",
 			"contributor": "SamuelMotal",
@@ -48,7 +48,7 @@
 			"details": "Play around with locales. Can you cause a bad behaviour by changing the locale? What happens if the locale does not fit to the set time zone?",
 			"keywords": ["time","locales"]
 		},
-    {
+    		{
 			"mainCategory": "general",
 			"subCategory": "time",
 			"contributor": "SamuelMotal",
@@ -56,7 +56,7 @@
 			"details": "Is the time correctly written into the log files? Do log files follow the same format regarding to timestamp? ",
 			"keywords": ["time","logfiles"]
 		},
-    {
+    		{
 			"mainCategory": "general",
 			"subCategory": "time",
 			"contributor": "SamuelMotal",
@@ -64,7 +64,7 @@
 			"details": "What happens if the time on server and client differ? Is there a syncing mechanism? How do timezones and other system settings effect the synching mechanism?",
 			"keywords": ["time","logfiles"]
 		},
-    {
+    		{
 			"mainCategory": "general",
 			"subCategory": "time",
 			"contributor": "SamuelMotal, StephanKaemper",
@@ -72,7 +72,7 @@
 			"details": "Play around with date and time regarding leap years. For instance leap year +1s, leap year -1s, leap year -1d,...Any impact on your application?",
 			"keywords": ["time","leapyear"]
 		},
-    {
+    		{
 			"mainCategory": "general",
 			"subCategory": "time",
 			"contributor": "SamuelMotal",
@@ -80,7 +80,7 @@
 			"details": "Can your license be manipulated by changing the time? Can any other effect regarding licenses be produced by changing time, or time relevant settings?",
 			"keywords": ["time","licenses"]
 		},
-    {
+    		{
 			"mainCategory": "general",
 			"subCategory": "time",
 			"contributor": "SamuelMotal",
@@ -88,7 +88,7 @@
 			"details": "Play around with time settings. Do any certificates expire unexpectedly? Have certificates a long enough expiry date?",
 			"keywords": ["time","certificates"]
 		},
-    {
+    		{
 			"mainCategory": "general",
 			"subCategory": "time",
 			"contributor": "Kelly Kenyon",
