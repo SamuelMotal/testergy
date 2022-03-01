@@ -94,6 +94,15 @@
 			"contributor": "Kelly Kenyon",
 			"name": "epochs",
 			"keywords": ["time","epochs"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "time",
+			"contributor": "Adrian Yorke",
+			"name": "IANA, Time zone database",
+			"details": "Use IANA and the time zone database as inspiration. Play around for instance with UTC offset, areas, type, tz database name.",
+			"keywords": ["time","IANA","time zone"]
 		}
+		
 	]
 }
