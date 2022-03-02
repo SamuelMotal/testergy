@@ -91,17 +91,25 @@
     		{
 			"mainCategory": "general",
 			"subCategory": "time",
-			"contributor": "Kelly Kenyon",
+			"contributor": "KellyKenyon",
 			"name": "epochs",
 			"keywords": ["time","epochs"]
 		},
 		{
 			"mainCategory": "general",
 			"subCategory": "time",
-			"contributor": "Adrian Yorke",
+			"contributor": "AdrianYorke",
 			"name": "IANA, Time zone database",
 			"details": "Use IANA and the time zone database as inspiration. Play around for instance with UTC offset, areas, type, tz database name.",
-			"keywords": ["time","IANA","time zone"]
+			"keywords": ["time","IANA","time zone","utc"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "time",
+			"contributor": "StephanKaemper",
+			"name": "Leap seconds",
+			"details": "Can leap seconds have any impact on your applications. More information on leap seconds: https://en.m.wikipedia.org/wiki/Leap_second",
+			"keywords": ["time","leap seconds"]
 		}
 		
 	]
