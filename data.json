@@ -207,5 +207,83 @@
 			"details": "How does your application handle files which are in use at the moment?",
 			"keywords": ["filesystem","in use"]
 		},
+		{
+			"mainCategory": "general",
+			"subCategory": "user experience",
+			"contributor": "SamuelMotal",
+			"name": "colours",
+			"details": "Are the right colours used for the right purpose?",
+			"keywords": ["user experience","ux","colours"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "user experience",
+			"contributor": "SamuelMotal",
+			"name": "simplicity",
+			"details": "Is the design simple? A complicated GUI often results in a bad user experience.",
+			"keywords": ["user experience","ux","simple"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "user experience",
+			"contributor": "SamuelMotal",
+			"name": "consistency",
+			"details": "To get a nice experience you need to be consistent. Is your GUI consistent in the use of colors, shapes and flows?",
+			"keywords": ["user experience","ux","simple"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "user experience",
+			"contributor": "SamuelMotal",
+			"name": "don't make me click",
+			"details": "How is the flow of the application designed. Is the user required to navigate unnecessary around in your application to be able to use the main features?",
+			"keywords": ["user experience","ux","click","flow","navigation"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "user experience",
+			"contributor": "SamuelMotal",
+			"name": "don't make me click",
+			"details": "How is the flow of the application designed. Is the user required to navigate unnecessary around in your application to be able to use the main features?",
+			"keywords": ["user experience","ux","click","flow","navigation"]
+		},
+		{
+			"mainCategory": "web",
+			"subCategory": "user experience",
+			"contributor": "StephanKaemper",
+			"name": "labels and tab order",
+			"keywords": ["user experience","ux","labels","order","design"]
+		},
+		{
+			"mainCategory": "web",
+			"subCategory": "user experience",
+			"contributor": "StephanKaemper",
+			"name": "autofocus",
+			"details": "Which element is on focus per default in this mask? Is it the correct field?",
+			"keywords": ["user experience","ux","autofocus"]
+		},
+		{
+			"mainCategory": "web",
+			"subCategory": "user experience",
+			"contributor": "StephanKaemper",
+			"name": "pasteable vs. unpasteable fields",
+			"details": "Can content be pasted into a particular field? Is it preferrable that content can not be pasted into this field?",
+			"keywords": ["user experience","ux","fields","security","pastable","unpasteable"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "user experience",
+			"contributor": "kassi__hassan",
+			"name": "visual hierarchy",
+			"details": "Are the correct elements standing out in the view? Are the less important elements less present?",
+			"keywords": ["user experience","ux","fields","visual","visual hierarchy","hierarchy"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "user experience",
+			"contributor": "kassi__hassan",
+			"name": "white space",
+			"keywords": ["user experience","ux","white space"]
+		}
 	]
 }
