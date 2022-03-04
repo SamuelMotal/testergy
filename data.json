@@ -110,7 +110,102 @@
 			"name": "Leap seconds",
 			"details": "Can leap seconds have any impact on your applications. More information on leap seconds: https://en.m.wikipedia.org/wiki/Leap_second",
 			"keywords": ["time","leap seconds"]
-		}
-		
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "reserved characters",
+			"details": "Some characters have a special meaning when it comes to file paths, some are not allowed. Play around with different file paths ans special characters.",
+			"keywords": ["filesystem","paths","characters","special characters"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "4GB limit on NTFS",
+			"details": "Does your application possibly deal with big files on NTFS? How does the application deal with 4GB limit on NTFS filesystems. ",
+			"keywords": ["filesystem","ntfs","limit","size"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "long paths",
+			"details": "Operating systems have limits on how long a filepath can be. Can you produce a too long filepath for your application. How does your application react?",
+			"keywords": ["filesystem","ntfs","limit","size"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "long paths",
+			"details": "Operating systems have limits on how long a filepath can be. Can you produce a too long filepath for your application. How does your application react?",
+			"keywords": ["filesystem","ntfs","limit","size"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "long paths",
+			"details": "Operating systems have limits on how long a filepath can be. Can you produce a too long filepath for your application. How does your application react?",
+			"keywords": ["filesystem","ntfs","limit","size"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "file seperator",
+			"details": "How does your application handle backslashes vs. forward slashes? Different OS handle file paths different. Make sure you don't rely just on one type.",
+			"keywords": ["filesystem","forwardslash","backslash","path"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "dir vs. file",
+			"details": "If your application expects a file and you give a directory how is it handled? Or vice versa what if a directory is expected, but a file is given?",
+			"keywords": ["filesystem","file","directory"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "ZIP Bomb",
+			"details": "Details for ZIP Bomb: https://en.wikipedia.org/wiki/Zip_bomb - if your application deals with ZIPs. How does it deal with a ZIP bomb?",
+			"keywords": ["filesystem","zip","zip bomb"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "Links/Shortcuts",
+			"details": "How does the application handle links / shortcuts? ",
+			"keywords": ["filesystem","links","shortcuts"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "syncing",
+			"details": "Files might not be written imediatly to the disk. Can that be exploited? Can this lead to a problem?",
+			"keywords": ["filesystem","sync"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "access rights",
+			"details": "What access rights to the filesystem is required by your application? What happens if this access rights are not given?",
+			"keywords": ["filesystem","access rights", "security"]
+		},
+		{
+			"mainCategory": "general",
+			"subCategory": "filesystem",
+			"contributor": "SamuelMotal",
+			"name": "file in use",
+			"details": "How does your application handle files which are in use at the moment?",
+			"keywords": ["filesystem","in use"]
+		},
 	]
 }
